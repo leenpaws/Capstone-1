@@ -1,4 +1,5 @@
-,Strike ID,Date,Location,US confirmed?,Air strike?,Drone strike,Type of attack,Minimum strikes,Maximum strikes,Minimum people killed,Maximum people killed,Minimum civilians killed,Maximum civilians killed,Minimum children killed,Maximum children killed,Minimum people injured,Maximum people injured,Strike link,Index
+,Strike ID,Date,Location,"Confirmed/
+possible US strike",Air strike?,Drone strike,Strike type,Minimum strikes,Maximum strikes,Minimum people killed,Maximum people killed,Minimum civilians killed,Maximum civilians killed,Minimum children killed,Maximum children killed,Minimum people injured,Maximum people injured,Strike link,Index
 0,SOM001,07/01/2007,Ras Kamboni,Confirmed,1,0,Air assault - AC-130 Gunship,1,1,8,10,2,2,0,1,1,3,http://www.thebureauinvestigates.com/2012/02/22/get-the-data-somalias-hidden-war/#SOM001,1
 1,SOM002,09/01/2007,"Hayo, Garer, Bankajirow and Badmadow, Ras Kamboni",Confirmed,1,0,Air assault - AC-130 Gunship,1,1,5,10,0,0,0,0,4,5,http://www.thebureauinvestigates.com/2012/02/22/get-the-data-somalias-hidden-war/#SOM002,2
 2,SOM003,09/01/2007,Hayo,Possible,1,0,Air assault - helicopter,1,1,4,31,4,31,0,1,0,0,http://www.thebureauinvestigates.com/2012/02/22/get-the-data-somalias-hidden-war/#SOM003,3
